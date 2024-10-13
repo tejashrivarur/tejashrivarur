@@ -1,4 +1,6 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/56cf56a4-766d-4ea5-bcc4-4aa87dbdb14d)
+
 
 <!--
 **tejashrivarur/tejashrivarur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
